@@ -1,11 +1,11 @@
 ## Registration Monitor Team
 
-Project Manager:
+## Project Manager:
 Eric Yang
-ery225@lehigh.edu
-508-468-1718
+* ery225@lehigh.edu
+* 508-468-1718
 
-Team Members:
+## Team Members:
 Kate Manning
 kam327@lehigh.edu
 914-979-4110
